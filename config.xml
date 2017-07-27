@@ -71,7 +71,7 @@
         <splash density="port-xxxhdpi" src="resources/android/splash/drawable-port-xxxhdpi-screen.png" />
     </platform>
     <icon src="resources/android/icon/drawable-xhdpi-icon.png" />
-    <plugin name="cordova-plugin-baidumaplocation" spec="~3.0.1">
+    <plugin name="cordova-plugin-baidumaplocation" spec="~3.0.2">
         <variable name="ANDROID_KEY" value="Rt0gXN2PVmFFo82SK0Miey8S8MMzh6ud" />
         <variable name="IOS_KEY" value="OIlX6M6Pvf7k0Z8sUHLkGf7WYaje2Yfc" />
         <variable name="IOS_LOCATION_DESC" value="请点击'好'以允许访问。" />
