@@ -10,6 +10,7 @@ angular.module('starter', ['ionic'])
 
 
       baidumap_location.getCurrentPosition(function (result) {
+        alert(JSON.stringify(result, null, 4))
         console.log("================")
         console.log(JSON.stringify(result, null, 4));
       }, function (error) {
